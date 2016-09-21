@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onLaqunch2(View view) {
-        Intent i = new Intent(this, Main2Activity.class);
+        Intent i = new Intent(this, Main23Activity.class);
         startActivity(i);
 
     }
