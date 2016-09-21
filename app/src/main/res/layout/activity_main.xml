@@ -21,7 +21,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="747"/>
+            android:text="747"
+            android:onClick="onLaqunch2"/>
         <Button
             android:layout_width="0dp"
             android:layout_weight="1"
